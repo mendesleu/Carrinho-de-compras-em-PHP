@@ -33,7 +33,7 @@ class Carrinho
                      <strong>Produto:</strong> " . $value['nome'] . " | 
                      <strong>Valor:</strong> " . $value['valor'] . " | 
                      <strong>Quantidade:</strong> " . $value['quantidade'] . 
-                 "</p><br>";
+                 "</p>";
         }
     }
 }
